@@ -19,9 +19,6 @@ From the FID scores quantitatively the  model did not hold on to the same calibe
 </p><br />
 
 ## Image Results
-<p align="left">
-  <img width="64" height="64" src="https://github.com/tsusdere/Generating-Anime/blob/main/results/1st%20img.png">
-</p>
 <p align="right">
-  <img width="64" height="64" src="https://github.com/tsusdere/Generating-Anime/blob/main/results/imgTrained.png">
+  <img width="64" height="64" src="https://giphy.com/gifs/WqsP0PuJI8qiMQUp1X/media">
 </p>
