@@ -20,5 +20,5 @@ From the FID scores quantitatively the  model did not hold on to the same calibe
 
 ## Image Results
 <p align="right">
-  <img width="64" height="64" src="https://giphy.com/gifs/WqsP0PuJI8qiMQUp1X/media">
+  <img width="64" height="64" src="https://github.com/tsusdere/Generating-Anime/blob/main/results/Animated%20GIF-source.gif">
 </p>
