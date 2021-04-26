@@ -11,3 +11,6 @@ The datasets provided are the [**Anime Faces**](https://www.kaggle.com/soumikrak
 * The generator network will attempt to generate images from noise to create 64x64 RGB anime face image.
 * Disciminator network will determine if the images are 'rea' or 'fake' depending on the ground truth provided
 * Update the generator and the weights based on the discriminator's choice and generated new images to attempt to 'fool' the discriminator.
+## Results
+The generator started to stall in improving the quality of the images that are generated around the 2,000th epoch. This is attributed to the generator being to 'fool' the discriminator easily and thus the discriminator marks all the images from that point on as 'real' with a high accuracy. This causes an extremely high FID score which when training another dataset and comparing to other models the proposed model is out classed as it contains the highest FID score out of all. 
+[alt text](https://github.com/tsusdere/Generating-Anime/blob/main/results/FID%20table.JPG)
