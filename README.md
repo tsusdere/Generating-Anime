@@ -19,7 +19,9 @@ From the FID scores quantitatively the  model did not hold on to the same calibe
 </p><br />
 
 ## Image Results
-Below is a GIF created by compiling all the images that have been generated to demonstrate how the generator progresses as it generates images. As mentioned diminishing returns seems to apply as the generator seems to stop improving in the quality and just generate radom images of the same quality.
+Below is a GIF created by compiling all the images that have been generated to demonstrate how the generator progresses as it generates images. As mentioned diminishing returns seems to apply as the generator seems to stop improving in the quality and just generate radom images of the same quality. The model was able to generate images that are qualitatively close to those that it was being trained on when the model was trained on the Anime Faces dataset. The difference being some distortion in the faces as it seemed the generated images was attempting to blend two faces poorly. The FID score was also high when comparing a generated image to a ground truth images meaning the model still needs improvements, primarily in training the discriminator as the generator was able to ‘fool’ it easily. When the model was trained on the selfie2anime dataset the disparity of the FID score demonstrates how the proposed model is outclasses by models that are of higher caliber. Overall, though the results are not on par with state-of-the-art cases the results are good for the objective of this project, learning about GANs.
+![image](https://user-images.githubusercontent.com/27039604/116033829-c1c85880-a627-11eb-854c-4406e8f4cbac.png)
+
 <p align="center">
   <img width="480" height="480" src="https://github.com/tsusdere/Generating-Anime/blob/main/results/Animated%20GIF.gif">
 </p><br />
