@@ -1,5 +1,7 @@
 # Generating-Anime
 Use GANs in order to generate anime faces
+* [Website](https://sites.google.com/view/cs4973-generatinganime-project/home)
+* [Paper](https://drive.google.com/file/d/1eAQCkWsveP7btZOyurDHn2-bMy_vEYcf/view?usp=sharing)
 ## Background
 Generative Adversarial Networks (GANs) allow for image synthesis possible by taking in a noise vector and transforming it into an image. Images generated depend on the type of images the network was trained on, so it’s important to choose a dataset that will yield wanted results. GAN research is important since it could lead to an increase in datasets and images that will allow for training in models to be more effective and cohesive. I chose to improve on ‘vanilla’ GANs by implementing a Deep Convolution Generative Adversarial Network (DCGAN) which will improve on the network model and hope to improve better results.
 
