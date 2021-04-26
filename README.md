@@ -1,9 +1,12 @@
 # Generating-Anime
 Use GANs in order to generate anime faces
+## Background
+Generative Adversarial Networks (GANs) allow for image synthesis possible by taking in a noise vector and transforming it into an image. Images generated depend on the type of images the network was trained on, so it’s important to choose a dataset that will yield wanted results. GAN research is important since it could lead to an increase in datasets and images that will allow for training in models to be more effective and cohesive. I chose to improve on ‘vanilla’ GANs by implementing a Deep Convolution Generative Adversarial Network (DCGAN) which will improve on the network model and hope to improve better results.
+
 ## Purpose
 The purpose of this project was to gain an understaing on how Generative Adversarial Networks (GAN) work in order to generate images from noise.
 The theme of this project was 'anime' this was chose as many GAN examples inolve generating human faces or attributes and there is not much research or
-projects involving 2D characters. It will also add some fun to the project.
+projects involving 2D characters. It will also add some fun to the project. I propose a DCGAN model which will allow training of a single label to train in a short period of time and have an accuracy of ~80% > with a low FID score. Generating low resolution images of 64x64 RGB will generate images that are on par with the images that they are trained on and have a low FID score.
 ## Datasets
 The datasets provided are the [**Anime Faces**](https://www.kaggle.com/soumikrakshit/anime-faces) & [**selfie2anime**](https://www.kaggle.com/arnaud58/selfie2anime) datasets. The first dataset contains 64x64 RGB anime faces with a white background and simple features as opposed to the second dataset. The second dataset **selfie2anime** involves 
 ## Methodology
