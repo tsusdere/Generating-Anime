@@ -14,5 +14,5 @@ The datasets provided are the [**Anime Faces**](https://www.kaggle.com/soumikrak
 ## Results
 The generator started to stall in improving the quality of the images that are generated around the 2,000th epoch. This is attributed to the generator being to 'fool' the discriminator easily and thus the discriminator marks all the images from that point on as 'real' with a high accuracy. This causes an extremely high FID score which when training another dataset and comparing to other models the proposed model is out classed as it contains the highest FID score out of all. <br />
 <p align="center">
-  <img width="460" height="300" src="https://github.com/tsusdere/Generating-Anime/blob/main/results/FID%20table.JPG">
+  <img width="543" height="232" src="https://github.com/tsusdere/Generating-Anime/blob/main/results/FID%20table.JPG">
 </p>
