@@ -16,8 +16,8 @@ The generator started to stall in improving the quality of the images that are g
 <p align="center">
   <img width="543" height="232" src="https://github.com/tsusdere/Generating-Anime/blob/main/results/FID%20table.JPG">
 </p>
-From the FID scores quantitatively the  model did not hold on to the same caliber as the other models which can be found talked about in the 
-[I'm an inline-style link](https://www.google.com) paper which dives deeper into each individual architecture of the models. Qualitatively the images seem to be pretty decent when comparing it to the ground truth images that have been used to train the model.
+From the FID scores quantitatively the  model did not hold on to the same caliber as the other models which can be found talked about in the **AniGan** paper which dives deeper into each individual architecture of the models. Qualitatively the images seem to be pretty decent when comparing it to the ground truth images that have been used to train the model.
+
 ## Image Results
 <p align="left">
   <img width="64" height="64" src="https://github.com/tsusdere/Generating-Anime/blob/main/results/1st%20img.png">
