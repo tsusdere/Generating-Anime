@@ -1,5 +1,6 @@
 # Generating-Anime
-Use GANs in order to generate anime faces
+Use GANs in order to generate anime faces. The purpose of this project was to study how Generative Adversarial Networks work (GANs). A generator and discriminator networks were created in order to attempt to generate anime images and determine the FID to measure the GAN<br>
+Implementation referenced from Tensorflow, PyTorch, Medium, and Kaggle
 * [Website](https://sites.google.com/view/cs4973-generatinganime-project/home)
 * [Paper](https://drive.google.com/file/d/1eAQCkWsveP7btZOyurDHn2-bMy_vEYcf/view?usp=sharing)
 ## Background
