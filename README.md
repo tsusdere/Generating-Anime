@@ -19,6 +19,7 @@ From the FID scores quantitatively the  model did not hold on to the same calibe
 </p><br />
 
 ## Image Results
+Below is a GIF created by compiling all the images that have been generated to demonstrate how the generator progresses as it generates images. As mentioned diminishing returns seems to apply as the generator seems to stop improving in the quality and just generate radom images of the same quality.
 <p align="center">
   <img width="480" height="480" src="https://github.com/tsusdere/Generating-Anime/blob/main/results/Animated%20GIF.gif">
 </p><br />
