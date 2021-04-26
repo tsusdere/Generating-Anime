@@ -23,6 +23,7 @@ Below is a GIF created by compiling all the images that have been generated to d
 <p align="center">
   <img width="480" height="480" src="https://github.com/tsusdere/Generating-Anime/blob/main/results/Animated%20GIF.gif">
 </p><br />
+
 ## Keypoints
 * DCGAN was able to generate anime images from noise vectors but with a high FID score.
 * Generated images appeared to have some distortion almost seemed like a weak blend of two different faces.
