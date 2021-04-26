@@ -19,6 +19,4 @@ From the FID scores quantitatively the  model did not hold on to the same calibe
 </p><br />
 
 ## Image Results
-<p align="right">
-  <img width="64" height="64" src="https://github.com/tsusdere/Generating-Anime/blob/main/results/Animated%20GIF-source.gif">
-</p>
+<iframe src="https://giphy.com/embed/WqsP0PuJI8qiMQUp1X" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/WqsP0PuJI8qiMQUp1X">via GIPHY</a></p>
